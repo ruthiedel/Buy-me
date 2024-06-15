@@ -35,15 +35,15 @@ To get a local copy up and running, follow these steps:
 
 
 2.**Navigate to the project directory**:
-```sh
-cd buy-me-gift-site-simulation
+   ```sh
+   cd buy-me-gift-site-simulation
 
+sh
 
-
-Open the project in Visual Studio:
-
+3. **Open the project in Visual Studio**:
+    ```sh
     Open BuyMeGiftSiteSimulation.sln in Visual Studio.
-
-Build and run the project:
-
+sh 
+4.**Build and run the project**:
+    ```sh
     Press F5 to build and run the project.  
