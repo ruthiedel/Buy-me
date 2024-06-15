@@ -1,0 +1,129 @@
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csprojAssemblyReference.cache
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Properties.Resources.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.GenerateResource.cache
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.CoreCompileInputs.cache
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.AssemblyReference.cache
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Properties.Resources.resources
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.GenerateResource.cache
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.CoreCompileInputs.cache
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe.config
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\bin\Debug\Buy-Me.pdb
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Form1.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmArea.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSort.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSubject.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSum.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy-Me.exe
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy-Me.pdb
+G:\רותי\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe.config
+G:\רותי\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe
+G:\רותי\Buy-Me\Buy-Me\bin\Debug\Buy-Me.pdb
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Form1.resources
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmArea.resources
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmBusiness.resources
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSort.resources
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSubject.resources
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSum.resources
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy-Me.exe
+G:\רותי\Buy-Me\Buy-Me\obj\Debug\Buy-Me.pdb
+K:\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe.config
+K:\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe
+K:\Buy-Me\Buy-Me\bin\Debug\Buy-Me.pdb
+K:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.AssemblyReference.cache
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Form1.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmArea.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmBusiness.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmCard.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSort.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSubject.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSum.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Properties.Resources.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.GenerateResource.cache
+K:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.CoreCompileInputs.cache
+K:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.exe
+K:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.pdb
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmBusiness.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmCard.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmClient.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmUsing.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmClient.resources
+K:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmUsing.resources
+G:\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe.config
+G:\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe
+G:\Buy-Me\Buy-Me\bin\Debug\Buy-Me.pdb
+G:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.AssemblyReference.cache
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Form1.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmArea.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmBusiness.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmCard.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmClient.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSort.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSubject.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSum.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmUsing.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Properties.Resources.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.GenerateResource.cache
+G:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.CoreCompileInputs.cache
+G:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.exe
+G:\Buy-Me\Buy-Me\obj\Debug\Buy-Me.pdb
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe.config
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\bin\Debug\Buy-Me.pdb
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.AssemblyReference.cache
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Form1.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmArea.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmBusiness.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmCard.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmClient.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSort.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSubject.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSum.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmUsing.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Properties.Resources.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.GenerateResource.cache
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.CoreCompileInputs.cache
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy-Me.exe
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy-Me.pdb
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchus1.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchus1.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchase2.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSelection.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchase2.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSelection.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchase2.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchus1.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSelection.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycardpurchase.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycardpurchase.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycard.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycard.resources
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycardpurchase.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycard.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe.config
+C:\Users\student\Desktop\Buy-Me\Buy-Me\bin\Debug\Buy-Me.exe
+C:\Users\student\Desktop\Buy-Me\Buy-Me\bin\Debug\Buy-Me.pdb
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Form1.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmArea.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmBusiness.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmCard.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmClient.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycard.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmMultycardpurchase.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmOpencards.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchase2.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmPurchus1.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSelection.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSort.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSubject.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmSum.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmUsing.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Properties.Resources.resources
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy-Me.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy-Me.exe
+C:\Users\student\Desktop\Buy-Me\Buy-Me\obj\Debug\Buy-Me.pdb
+G:\מחשבים\יב\רותי אדל\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmOpencards.resources
+C:\Users\EDEL\Desktop\רותי\תכנות\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmOpencards.resources
+G:\Buy-Me\Buy-Me\obj\Debug\Buy_Me.Gui.FrmOpencards.resources
