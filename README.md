@@ -25,25 +25,4 @@ To get a local copy up and running, follow these steps:
 - .NET Framework
 - Microsoft Access
 
-### Installation
 
-1. **Clone the repo**:
-   ```sh
-   git clone https://github.com/your_username/buy-me-gift-site-simulation.git
-
- sh
-
-
-2.**Navigate to the project directory**:
-   ```sh
-   cd buy-me-gift-site-simulation
-
-sh
-
-3. **Open the project in Visual Studio**:
-    ```sh
-    Open BuyMeGiftSiteSimulation.sln in Visual Studio.
-sh 
-4.**Build and run the project**:
-    ```sh
-    Press F5 to build and run the project.  
